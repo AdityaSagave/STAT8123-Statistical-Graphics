@@ -12,11 +12,11 @@ The graphics chosen encompass a range of topics, such as environmental events, s
 
 ## Contents
 
-- `Graphic1.png`: Graphic 1 - [Description]
-- `Graphic2.png`: Graphic 2 - [Description]
-- `Graphic3.png`: Graphic 3 - [Description]
-- `Graphic4.png`: Graphic 4 - [Description]
-- `Graphic5.png`: Graphic 5 - [Description]
+- `./images/Graphic1.png`: Graphic 1 - [Description]
+- `./images/Graphic2.png`: Graphic 2 - [Description]
+- `./images/Graphic3.png`: Graphic 3 - [Description]
+- `./images/Graphic5.png`: Graphic 5 - [Description]
+- `./images/Graphic4.png`: Graphic 4 - [Description]
 - `README.md`: This file, providing an overview of the assignment.
 
 ## Instructions
